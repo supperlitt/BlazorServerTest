@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\tangh\source\repos\WebTestBS\WebTestBS\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-01-20T09:02:19.3495138Z;False|2022-01-20T17:02:09.2665329+08:00;False|2022-01-20T17:00:50.7345536+08:00;True|2022-01-20T16:57:09.5039159+08:00;True|2022-01-20T16:56:25.6625806+08:00;True|2022-01-20T15:03:36.7104786+08:00;True|2022-01-20T14:59:32.2128592+08:00;True|2022-01-20T14:26:25.5611099+08:00;</History>
+  </PropertyGroup>
+</Project>
